@@ -1,0 +1,9 @@
+This program was created for the Book Pro Arduino http://www.apress.com/9781430239390
+simulates a PID setup using openFrameworks and Firmata.  
+
+Todo:
+clean up code 
+make better user interfce 
+coments 
+make dynamic serial selection
+exsplore portable stand alone
